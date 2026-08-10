@@ -20,4 +20,4 @@ This folder contains all documentation artifacts produced during **Task 2 — Mo
 ## Related Links
 
 - Planner Board: https://planner.cloud.microsoft/webui/plan/lbDENjOaHkujelzuHNSlGMgAF_C3/view/board?tid=d1323671-cdbe-4417-b4d4-bdb24b51316b
-- Deployed URL: _(add link here)_
+- Deployed URL: _(https://rmit-capstone-programming-project-g.vercel.app/)_

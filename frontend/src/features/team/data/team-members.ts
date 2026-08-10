@@ -26,7 +26,7 @@ export const teamMembers: TeamMember[] = [
   },
   {
     id: 'khanh-nguyen-hoang-quoc',
-    name: 'Khanh Nguyen Hoang Quoc',
+    name: 'Hoang Quoc Khanh Nguyen',
     role: 'UX Designer',
     blurb:
       'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',

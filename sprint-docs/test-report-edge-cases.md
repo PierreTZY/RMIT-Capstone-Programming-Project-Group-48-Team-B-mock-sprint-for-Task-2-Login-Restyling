@@ -23,7 +23,7 @@ Done: Tested invalid login, direct team-page URL access without login, missing-p
 
 ## Test Result
 
-Passed with minor content note.
+Passed. No blocking bugs found.
 
 ## Tested URL
 
@@ -38,10 +38,6 @@ Passed with minor content note.
 | EC-03 | Missing profile photo fallback | Member cards displayed avatar/default icons. | Pass |
 | EC-04 | Long blurb / grid overflow check | Current deployed blurbs displayed within cards without visible overflow or grid break. | Pass |
 | EC-05 | Bug logging | No blocking bugs found. | Pass |
-
-## Minor Content Note
-
-The deployed team page shows the UX member name as `Hoang Quoc Khanh Nguyen`. Earlier BA validation used `Khanh Nguyen Hoang Quoc`. This is recorded as a name-order clarification, not a blocking functional bug.
 
 ## Bugs
 

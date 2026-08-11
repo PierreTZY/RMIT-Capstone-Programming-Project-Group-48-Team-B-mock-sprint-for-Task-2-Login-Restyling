@@ -36,15 +36,14 @@ Reviewed the Figma login page and team page mockups against the BA requirements 
 
 ## Gaps / Minor Changes Requested
 
-1. Update or confirm the member name spelling for Khanh Nguyen Hoang Quoc. The BA requirements document used `Khanh Nguyen Hoang Quoc`, while the design and deployed page show `Hoang Quoc Khanh Nguyen`.
-2. Ensure the login error message area remains visible after restyling.
-3. Keep sidebar items such as Notes/Profile/Settings as visual/navigation-only unless already supported by the boilerplate, so the scope does not expand.
+1. Ensure the login error message area remains visible after restyling.
+2. Keep sidebar items such as Notes/Profile/Settings as visual/navigation-only unless already supported by the boilerplate, so the scope does not expand.
 
 ## Follow-Up Evidence
 
 - Invalid login testing confirmed that the login error message is visible on the deployed URL.
 - The deployed team page displays avatar placeholders, names, roles, and role-specific blurbs.
-- The remaining name-order difference is recorded as a minor content clarification, not a blocking functional issue.
+- No blocking design gaps remain for the tested mock sprint scope.
 
 ## Note For Next Role
 

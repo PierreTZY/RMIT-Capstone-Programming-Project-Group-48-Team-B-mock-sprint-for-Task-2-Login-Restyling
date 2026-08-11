@@ -8,6 +8,7 @@ This folder contains all documentation artifacts produced during **Task 2 — Mo
 | -------------------------- | ------------------------------------------------------------------------- |
 | `BA_Requirements.pdf`      | Initial requirements document for the team page and login styling.        |
 | `BA_Requirements_v0.2.pdf` | Updated requirements document, reflecting revisions after initial review. |
+| `FieldCapture_B.fig`       | Login/Team page UI design document.                                       |
 
 ## Notes
 

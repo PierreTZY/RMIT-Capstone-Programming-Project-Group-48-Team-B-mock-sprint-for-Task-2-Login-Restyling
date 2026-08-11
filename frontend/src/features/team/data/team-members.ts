@@ -8,27 +8,27 @@ export const teamMembers: TeamMember[] = [
     name: 'Kim Khanh Do',
     role: 'Project Manager',
     blurb:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      'Leads Team B\'s planning, sprint execution, and client communication, keeping requirements and delivery on track from proposal to final MVP.',
   },
   {
     id: 'kai-jie-yee',
     name: 'Kai Jie Yee',
     role: 'Business Analyst',
     blurb:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      'Owns requirements gathering and acceptance criteria, translating client needs into clear, testable user stories.',
   },
   {
     id: 'pierre-tan',
     name: 'Pierre Tan',
     role: 'Developer',
     blurb:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      'Builds and maintains the backend server, driving core feature implementation across each sprint.',
   },
   {
     id: 'khanh-nguyen-hoang-quoc',
     name: 'Hoang Quoc Khanh Nguyen',
     role: 'UX Designer',
     blurb:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      'Designs the user experience and interface, shaping how the product looks, feels, and functions for end users.',
   },
 ]

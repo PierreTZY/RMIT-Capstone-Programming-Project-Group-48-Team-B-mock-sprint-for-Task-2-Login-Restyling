@@ -10,9 +10,9 @@ This folder contains all documentation artifacts produced during **Task 2 — Mo
 | `BA_Requirements_v0.2.pdf` | Updated requirements document, reflecting revisions after initial review. |
 | `FieldCapture_B.fig`       | Login/Team page UI design document.                                       |
 | `design-validation.md`     | BA validation notes comparing the UX mockups against the requirements.    |
-| `test-script-login-flow.md` | Manual test script for valid login, redirect, and team page content.     |
+| `test-script-login-flow.js` | JavaScript test script for valid login, redirect, and team page content. |
 | `test-report-login-flow.md` | Test result report for the happy-path login to team page flow.           |
-| `test-script-edge-cases.md` | Manual test script for invalid login, protected route, and layout cases. |
+| `test-script-edge-cases.js` | JavaScript test script for invalid login, protected route, and layout cases. |
 | `test-report-edge-cases.md` | Test result report for edge cases and bug logging.                       |
 
 ## Notes

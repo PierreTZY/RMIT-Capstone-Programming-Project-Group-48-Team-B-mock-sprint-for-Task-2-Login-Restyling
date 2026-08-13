@@ -4,17 +4,18 @@ This folder contains all documentation artifacts produced during **Task 2 — Mo
 
 ## Contents
 
-| File                       | Description                                                               |
-| -------------------------- | ------------------------------------------------------------------------- |
-| `BA_Requirements.pdf`      | Initial requirements document for the team page and login styling.        |
-| `BA_Requirements_v0.2.pdf` | Updated requirements document, reflecting revisions after initial review. |
-| `FieldCapture_B.fig`       | Login/Team page UI design document.                                       |
-| `design-validation.md`     | BA validation notes comparing the UX mockups against the requirements.    |
-| `test-script-login-flow.js` | JavaScript test script for valid login, redirect, and team page content. |
-| `test-report-login-flow.md` | Test result report for the happy-path login to team page flow.           |
-| `test-script-edge-cases.js` | JavaScript test script for invalid login, protected route, and layout cases. |
-| `test-report-edge-cases.md` | Test result report for edge cases and bug logging.                       |
-| `evidence/task-8-invalid-login-error.jpg` | Screenshot evidence for the Task 8 invalid login error state. |
+| File                                      | Description                                                                                             |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| `BA_Requirements.pdf`                     | Initial requirements document for the team page and login styling.                                      |
+| `BA_Requirements_v0.2.pdf`                | Updated requirements document, reflecting revisions after initial review.                               |
+| `FieldCapture_B.fig`                      | Login/Team page UI design document.                                                                     |
+| `design-validation.md`                    | BA validation notes comparing the UX mockups against the requirements.                                  |
+| `test-script-login-flow.js`               | JavaScript test script for valid login, redirect, and team page content.                                |
+| `test-report-login-flow.md`               | Test result report for the happy-path login to team page flow.                                          |
+| `test-script-edge-cases.js`               | JavaScript test script for invalid login, protected route, and layout cases.                            |
+| `test-report-edge-cases.md`               | Test result report for edge cases and bug logging.                                                      |
+| `evidence/task-8-invalid-login-error.jpg` | Screenshot evidence for the Task 8 invalid login error state.                                           |
+| `signoff.md`                              | Final Review & Sign-Off note - PM verification of all 8 tasks and functional check before board closes. |
 
 ## Notes
 

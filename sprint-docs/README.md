@@ -14,6 +14,7 @@ This folder contains all documentation artifacts produced during **Task 2 — Mo
 | `test-report-login-flow.md` | Test result report for the happy-path login to team page flow.           |
 | `test-script-edge-cases.js` | JavaScript test script for invalid login, protected route, and layout cases. |
 | `test-report-edge-cases.md` | Test result report for edge cases and bug logging.                       |
+| `evidence/task-8-invalid-login-error.jpg` | Screenshot evidence for the Task 8 invalid login error state. |
 
 ## Notes
 

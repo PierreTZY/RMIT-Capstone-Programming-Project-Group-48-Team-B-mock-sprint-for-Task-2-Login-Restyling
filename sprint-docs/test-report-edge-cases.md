@@ -1,39 +1,27 @@
-# Test Report - Edge Cases And Bug Logging
+# [Login Restyling Bootstrap] Task 8 - Test Edge Cases & Log Bugs
 
-## Task
-
-[Login Restyling Bootstrap] Task 8 - Test Edge Cases & Log Bugs
-
-## Role
-
-Dev Tester - Kai Jie Yee
-
-## Date
-
-Tuesday, 11 August 2026
+| Role | Dev Tester - Kai Jie Yee | Date | Thursday, 13 August 2026 |
+| --- | --- | --- | --- |
 
 ## Completion Comment
 
-Done: Tested invalid login, direct team-page URL access without login, missing-photo fallback icons, and current deployed blurb layout. No blocking bugs found.
+**Done:** Tested invalid login, direct team-page URL access without login, missing-photo member fallback, and current deployed blurb layout. No blocking bugs found.
 
-## Deliverables
+**Deliverable:** Edge case test report.
 
-- Test script: `test-script-edge-cases.md`
-- Test report: `test-report-edge-cases.md`
+**Note for next role:** PM - everything passed, nothing outstanding for Dev 1 to fix before your review.
 
-## Test Result
+**Git URL (test script):** <https://github.com/PierreTZY/RMIT-Capstone-Programming-Project-Group-48-Team-B-mock-sprint-for-Task-2-Login-Restyling/blob/main/sprint-docs/test-script-edge-cases.js>
 
-Passed. No blocking bugs found.
+## Evidence
 
-## Tested URL
-
-<https://rmit-capstone-programming-project-g.vercel.app/>
+![Invalid login error state](./evidence/task-8-invalid-login-error.jpg)
 
 ## Edge Case Results
 
 | ID | Edge Case | Actual Result | Status |
 | --- | --- | --- | --- |
-| EC-01 | Invalid login | Invalid credentials showed `Invalid email or password` and remained on sign-in page. | Pass |
+| EC-01 | Invalid login | Invalid credentials showed `Invalid email or password` and remained on the sign-in page. | Pass |
 | EC-02 | Direct `/team` access without login | Logged-out access redirected to `/auth/signin?redirect=%2Fteam`. | Pass |
 | EC-03 | Missing profile photo fallback | Member cards displayed avatar/default icons. | Pass |
 | EC-04 | Long blurb / grid overflow check | Current deployed blurbs displayed within cards without visible overflow or grid break. | Pass |
@@ -42,7 +30,3 @@ Passed. No blocking bugs found.
 ## Bugs
 
 N/A - no blocking bugs found during edge-case testing.
-
-## Note For Next Role
-
-PM can proceed with final review. The tested deployed flow passed, and no outstanding blocking issue needs Dev 1 action before sign-off.
